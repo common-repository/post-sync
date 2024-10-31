@@ -1,0 +1,21 @@
+.form-table td input{
+	width:70%;
+	}
+		
+.metabox-holder .column-1 {
+	float: left;
+	width: 65%;
+	}
+.metabox-holder .column-2 {
+	float: right;
+	width: 33%;
+	}
+.metabox-holder .column-3 {
+	clear: both;
+	width: 100%;
+	}
+
+	
+
+
+
